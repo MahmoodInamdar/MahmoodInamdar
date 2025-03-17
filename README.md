@@ -6,7 +6,7 @@
 I transform complex data into actionable insights and build intelligent systems that drive real-world impact. I'm driven by curiosity, innovation, and a commitment to using data to solve challenging problems. I love exploring emerging technologies and collaborating on projects that make a difference. My work spans from building interactive dashboards to developing cutting-edge AI models that power real-world applications.🚀
 
 About Me 💡
-Name: Mahmood Inamdar
+- Name: Mahmood Inamdar
 Education: Msc in Data Science, AI and Digital Business, Berlin, Germany. 
 Experience: AI Intern at ZAZA-AI Germany | Operation Analyst at Ufaber Edutech pvt ltd. 
 
