@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to my profile! I'm a passionate Data Scientist and AI Developer with a strong background in Electronics and Telecommhnication, specialized in AI and Data Science. I transform complex data into actionable insights and build intelligent systems that drive real-world impact. 🚀
+
+About Me 💡
+Name: Mahmood Inamdar
+
+I'm driven by curiosity, innovation, and a commitment to using data to solve challenging problems. I love exploring emerging technologies and collaborating on projects that make a difference. My work spans from building interactive dashboards to developing cutting-edge AI models that power real-world applications.
+
+
+
 <!--
 **MahmoodInamdar/MahmoodInamdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
