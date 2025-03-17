@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mahmood Inamdar</h1>
-<h3 align="center">Welcome to my profile! I'm a passionate Data Scientist and AI Developer with a strong background in Electronics and Telecommhnication, specialized in AI and Data Science. I transform complex data into actionable insights and build intelligent systems that drive real-world impact. 🚀</h3>
+<h3 align="center">Welcome to my profile! I'm a passionate Data Scientist and AI Developer with a strong background in Electronics and Telecommhnication, specialized in AI and Data Science. I transform complex data into actionable insights and build intelligent systems that drive real-world impact. I'm driven by curiosity, innovation, and a commitment to using data to solve challenging problems. I love exploring emerging technologies and collaborating on projects that make a difference. My work spans from building interactive dashboards to developing cutting-edge AI models that power real-world applications.🚀
+
+About Me 💡
+Name: Mahmood Inamdar
+Education: Msc in Data Science, AI and Digital Business, Berlin, Germany. 
+Experience: AI Intern at ZAZA-AI Germany | Operation Analyst at Ufaber Edutech pvt ltd. 
+
+
+ </h3>
 
 - 🔭 I’m currently working on **Buddy-App (LLM powered app for mental health tracking.)**
 
 - 🌱 I’m currently learning **Master MLOps: Build, deploy, and scale ML models with Docker, MLflow, AWS SageMaker, Airflow, and Grafana. Hands-on projects included!**
 
-- 🔭 Passionate About **Artificial Intelligence**
+- 🔭 Passionate About **Artificial Intelligence.**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mahmoodinamdar02](https://www.datascienceportfol.io/mahmoodinamdar02)
 
