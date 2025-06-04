@@ -8,7 +8,7 @@ I transform complex data into actionable insights and build intelligent systems 
 
 - 🔭 I’m currently working on **Buddy-App (LLM powered app for mental health tracking.)**
 
-- 🌱 I’m currently learning **Master MLOps: Build, deploy, and scale ML models with Docker, MLflow, AWS SageMaker, Airflow, and Grafana. Hands-on projects included!**
+- 🌱 I’m currently Developing **LLM From Scratch**
 
 - 🔭 Passionate About **Artificial Intelligence.**
 
